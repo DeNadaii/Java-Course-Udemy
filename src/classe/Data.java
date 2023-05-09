@@ -7,6 +7,7 @@ public class Data {
     int ano;
 
     Data(){
+
         this.dia = 01;
         this.mes = 01;
         this.ano = 1970;
