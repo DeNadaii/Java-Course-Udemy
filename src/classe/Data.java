@@ -8,9 +8,10 @@ public class Data {
 
     Data(){
 
-        this.dia = 01;
-        this.mes = 01;
-        this.ano = 1970;
+//        this.dia = 01;
+//        this.mes = 01;
+//        this.ano = 1970;
+        this(1,1,1970);
     }
 
     Data(int inputDay, int inputMouth, int inputYear){
@@ -20,7 +21,9 @@ public class Data {
     }
 
     public String formatDate(){
-        String DataFormatada = String.format("%d/%d/%d",this.dia,this.mes,this.ano);
+        //variavel local
+        String formato = "%d/%d/%d";
+        String DataFormatada = String.format(formato,this.dia,this.mes,this.ano);
 
 //        if(this.dia <= 9 || this.mes <= 9){
 //            DataFormatada = String.format("0%d/0%d/%d",this.dia,this.mes,this.ano);

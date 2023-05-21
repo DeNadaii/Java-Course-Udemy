@@ -4,8 +4,7 @@ public class Produto {
 
     String nome;
     double preco;
-    double desconto;
-
+    static double desconto = 0.25;
     static String marca = "LG";
 
     //quando se cria um construtor na classe, o contrutor padrao deixa de existir
@@ -15,10 +14,10 @@ public class Produto {
 
     }
     //criando um construtor, com parametros
-    Produto(String nomeInicial, double precoInicial, double descontoInicial) {
+    Produto(String nomeInicial, double precoInicial) {
         this.nome = nomeInicial;
         this.preco = precoInicial;
-        this.desconto = descontoInicial;
+
     }
     public double calculaDesconto() {
 
