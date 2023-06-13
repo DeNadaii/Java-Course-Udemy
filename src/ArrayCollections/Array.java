@@ -1,8 +1,8 @@
-package Array;
+package ArrayCollections;
 
 import java.util.Arrays;
 
-public class fundamentos {
+public class Array {
     public static void main(String[] args) {
         double[] notaAlunoA = new double[4];
 
