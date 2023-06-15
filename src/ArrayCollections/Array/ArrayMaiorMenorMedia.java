@@ -1,4 +1,4 @@
-package ArrayCollections;
+package ArrayCollections.Array;
 
 public class ArrayMaiorMenorMedia {
     public static void main(String[] args) {

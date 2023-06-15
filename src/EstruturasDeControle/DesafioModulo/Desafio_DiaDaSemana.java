@@ -1,4 +1,4 @@
-package EstruturasDeControle.Aplicacoes;
+package EstruturasDeControle.DesafioModulo;
 
 import javax.swing.*;
 

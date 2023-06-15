@@ -1,4 +1,4 @@
-package EstruturasDeControle.Aplicacoes;
+package EstruturasDeControle.DesafioModulo;
 
 public class Desafio_If {
     public static void main(String[] args) {

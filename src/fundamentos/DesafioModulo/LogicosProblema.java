@@ -1,4 +1,4 @@
-package fundamentos.aplicacoes;
+package fundamentos.DesafioModulo;
 
 import javax.swing.*;
 

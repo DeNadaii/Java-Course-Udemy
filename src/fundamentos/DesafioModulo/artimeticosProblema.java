@@ -1,4 +1,4 @@
-package fundamentos.aplicacoes;
+package fundamentos.DesafioModulo;
 
 public class artimeticosProblema {
 

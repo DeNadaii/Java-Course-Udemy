@@ -1,4 +1,5 @@
 public class Main {
+    //entrada de argumentos pelo Terminal
     public static void main(String... args) {
 
         int entrada1 = Integer.parseInt(args[0]);
