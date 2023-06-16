@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class Array {
     public static void main(String[] args) {
-        double[] notaAlunoA = new double[4];
+        double notaAlunoA[] = new double[4];
 
         System.out.println(Arrays.toString(notaAlunoA));
 
