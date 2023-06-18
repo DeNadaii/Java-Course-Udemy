@@ -1,5 +1,7 @@
 package ArrayCollections.Array;
 
+import ArrayCollections.Usuario;
+
 import java.util.Date;
 
 public class Equals {

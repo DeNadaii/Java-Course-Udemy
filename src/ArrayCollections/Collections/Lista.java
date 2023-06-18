@@ -1,5 +1,7 @@
 package ArrayCollections.Collections;
 
+import ArrayCollections.Usuario;
+
 import java.util.ArrayList;
 import java.util.List;
 
