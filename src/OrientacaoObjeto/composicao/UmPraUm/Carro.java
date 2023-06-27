@@ -1,4 +1,4 @@
-package OrientacaoObjeto.composicao;
+package OrientacaoObjeto.composicao.UmPraUm;
 
 public class Carro {
     Motor motor = new Motor();

@@ -1,4 +1,4 @@
-package OrientacaoObjeto.composicao;
+package OrientacaoObjeto.composicao.UmPraUm;
 
 public class Motor {
     boolean ligado = false;
