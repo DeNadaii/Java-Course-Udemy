@@ -9,7 +9,7 @@ public class Compra {
         itensNaLista.add(item);
         item.compra = this;
     }
-    double getValorTotal(){
+    public double ValorTotal(){
         double total = 0;
         for (Item itens : itensNaLista){
             total += itens.quantidade * itens.preco;

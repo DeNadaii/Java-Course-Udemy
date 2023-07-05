@@ -1,6 +1,6 @@
 package fundamentos.TiposPrimitivos.TiposNumericos;
 
-public class TiposPontoFlutuante {
+public class  TiposPontoFlutuante {
     public static void main(String[] args) {
         //float
         float floatPositivo = 1.5555555f;
